@@ -1,3 +1,4 @@
+idAlumno;NIF;nombre;apellido1;apellido2;email;direccion;codigoPostal;municipio;provincia
 AL001;12345678A;Juan;García;López;juan.garcia001@example.com;Calle Mayor 1;28001;Madrid;Madrid
 AL002;23456789B;María;Pérez;Gómez;maria.perez002@example.com;Calle Gran Vía 22;29002;Málaga;Málaga
 AL003;34567890C;Carlos;Sánchez;Hernández;carlos.sanchez003@example.com;Avenida de la Libertad 15;41001;Sevilla;Sevilla
